@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Sorpresa", page_icon="🎁")
+st.set_page_config(page_title="Sorpresa", page_icon="🎁", layout="wide")
 
 st.title("🎁 ¡Alguien te mandó un regalo!")
 
